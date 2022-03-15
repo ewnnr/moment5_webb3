@@ -1,0 +1,19 @@
+body {
+    max-width: 1920px;
+}
+
+.courses {
+    margin-top: 1%;
+    background-color: blanchedalmond;
+    width: 19%;
+    border: black solid 3px;
+    padding: 0.5%;
+}
+
+.courses p {
+    margin: 0%;
+}
+
+.container {
+    margin: auto;
+}
